@@ -1,3 +1,4 @@
+output:https://student-ledger-one.lovable.app/
 # Student Management System
 
 ## Project Title
